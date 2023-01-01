@@ -1,0 +1,37 @@
+body{
+    color: aliceblue;
+}
+
+.full-height{
+    background-color: black;
+    height: 100vh;
+}
+
+.box{
+    height: 85px;
+    width: 100%;
+    font-size: 22px;
+    cursor: pointer;
+}
+.equal{
+    background-color: rgb(234, 82, 0);
+    color: aliceblue;
+    height: 65px;
+    width: 65px;
+    padding-top: 5px;
+    font-size: 33px;
+    border-radius: 50%;
+}
+
+.output{
+    font-size: 40px;
+    overflow-wrap: break-word;
+}
+
+.fs{
+    font-size: 33px;
+}
+
+.orange{
+    color: rgb(234, 82, 0);
+}
